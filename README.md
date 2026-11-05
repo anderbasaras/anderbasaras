@@ -59,19 +59,6 @@ TFM del máster. Compara el precio que se **pide** en los anuncios con el que re
 
 ---
 
-### Actividad
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anderbasaras&show_icons=true&hide_border=true&theme=dark&bg_color=14181D&title_color=C8102E&icon_color=C8102E&text_color=F2F4F6">
-  <img height="165" alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=anderbasaras&show_icons=true&hide_border=true&bg_color=F3F4F6&title_color=C8102E&icon_color=C8102E&text_color=1D232A">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anderbasaras&layout=compact&hide_border=true&theme=dark&bg_color=14181D&title_color=C8102E&text_color=F2F4F6">
-  <img height="165" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderbasaras&layout=compact&hide_border=true&bg_color=F3F4F6&title_color=C8102E&text_color=1D232A">
-</picture>
-
----
-
 ### Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ander--basaras--montalvo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ander-basaras-montalvo)
